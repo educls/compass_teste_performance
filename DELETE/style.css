@@ -1,0 +1,41 @@
+body{
+    padding-left: 30px;
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #aaa;
+}
+
+.title a{
+    font-size: 30px;
+}
+.container div{
+    margin-left: 200px;
+    margin-bottom: 30px;
+    display: block;
+    border-bottom: 2px solid black;
+    width: 250px;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: blue;
+}
+
+section div{
+    font-size: 20px;
+}
+
+.POST{
+    text-decoration: none;
+    color: black;
+}
+.DELETE{
+    background-color: red;
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+:hover.POST{
+    background-color: yellow;
+}

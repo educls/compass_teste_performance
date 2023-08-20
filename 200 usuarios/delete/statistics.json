@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 73.50499999999995,
+    "medianResTime" : 73.5,
+    "minResTime" : 2.0,
+    "maxResTime" : 212.0,
+    "pct1ResTime" : 160.9,
+    "pct2ResTime" : 175.0,
+    "pct3ResTime" : 207.96000000000004,
+    "throughput" : 215.9827213822894,
+    "receivedKBytesPerSec" : 98.92177375809935,
+    "sentKBytesPerSec" : 58.635934125269976
+  },
+  "DELETE - /usuarios" : {
+    "transaction" : "DELETE - /usuarios",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 73.50499999999995,
+    "medianResTime" : 73.5,
+    "minResTime" : 2.0,
+    "maxResTime" : 212.0,
+    "pct1ResTime" : 160.9,
+    "pct2ResTime" : 175.0,
+    "pct3ResTime" : 207.96000000000004,
+    "throughput" : 215.9827213822894,
+    "receivedKBytesPerSec" : 98.92177375809935,
+    "sentKBytesPerSec" : 58.635934125269976
+  }
+}

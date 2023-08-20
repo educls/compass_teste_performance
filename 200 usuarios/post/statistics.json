@@ -1,0 +1,34 @@
+{
+  "POST - /usuarios" : {
+    "transaction" : "POST - /usuarios",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 113.145,
+    "medianResTime" : 117.0,
+    "minResTime" : 29.0,
+    "maxResTime" : 191.0,
+    "pct1ResTime" : 160.8,
+    "pct2ResTime" : 179.84999999999997,
+    "pct3ResTime" : 189.99,
+    "throughput" : 191.75455417066155,
+    "receivedKBytesPerSec" : 94.56645493767978,
+    "sentKBytesPerSec" : 59.225753535474595
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 113.145,
+    "medianResTime" : 117.0,
+    "minResTime" : 29.0,
+    "maxResTime" : 191.0,
+    "pct1ResTime" : 160.8,
+    "pct2ResTime" : 179.84999999999997,
+    "pct3ResTime" : 189.99,
+    "throughput" : 191.75455417066155,
+    "receivedKBytesPerSec" : 94.56645493767978,
+    "sentKBytesPerSec" : 59.225753535474595
+  }
+}
